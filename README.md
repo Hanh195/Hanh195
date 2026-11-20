@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Hoang Anh, a Information Technology Student at UEH University. I'm passionate about Data Science and Machine Learning, with a focus on building practical, end-to-end data projects. I enjoy exploring datasets, developing models, and transforming data into meaningful insights.
 <!--
 **Hanh195/Hanh195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
